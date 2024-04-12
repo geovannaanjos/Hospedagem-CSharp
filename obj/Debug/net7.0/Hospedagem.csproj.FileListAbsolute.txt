@@ -1,0 +1,15 @@
+C:\fiap\c#\Hospedagem\bin\Debug\net7.0\Hospedagem.exe
+C:\fiap\c#\Hospedagem\bin\Debug\net7.0\Hospedagem.deps.json
+C:\fiap\c#\Hospedagem\bin\Debug\net7.0\Hospedagem.runtimeconfig.json
+C:\fiap\c#\Hospedagem\bin\Debug\net7.0\Hospedagem.dll
+C:\fiap\c#\Hospedagem\bin\Debug\net7.0\Hospedagem.pdb
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.AssemblyReference.cache
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfoInputs.cache
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfo.cs
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.dll
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\refint\Hospedagem.dll
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.pdb
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\Hospedagem.genruntimeconfig.cache
+C:\fiap\c#\Hospedagem\obj\Debug\net7.0\ref\Hospedagem.dll
