@@ -1,4 +1,4 @@
-# Sistema de hospedagem desenvolvido em C# dot net 💻
+# Sistema de hospedagem desenvolvido em C# .net 💻
 
 ## O que possui o sistema?
   * Classe Pessoa, que representa o hóspede;
